@@ -10,8 +10,8 @@ import UIKit
 
 class DadViewController: UIViewController {
     var jokeLabel: UILabel!
-    let punchline = "Punchline"
-    let jokeSetup = "Start of joke"
+    let punchline = "The odds were against me"
+    let jokeSetup = "I got beat up by one, three, five, and seven"
     
     
     override func viewDidLoad() {
